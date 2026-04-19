@@ -83,6 +83,8 @@ Download from https://www.python.org/downloads/ — check "Add Python to PATH" d
 **Git** (optional, for cloning)  
 Download from https://git-scm.com/download/win
 
+
+
 ---
 
 ### Step 2 — Install Tesseract OCR
@@ -403,3 +405,6 @@ Alternatively, PyMuPDF is used as an automatic fallback (no Poppler needed).
 ## 📄 License
 
 MIT License — free to use, modify, and distribute.
+
+Raj Kundur
+rajkundur58@gmail.com
